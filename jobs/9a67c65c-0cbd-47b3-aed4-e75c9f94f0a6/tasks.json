@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 969567991920463873,
+      "job_id": "9a67c65c-0cbd-47b3-aed4-e75c9f94f0a6",
+      "query": "REPLICATE [public].[test_dates1] WITH enableparallelreadpartitioning = 'true', maxparallelpartitions = '2', IncrementalCheckColumns = 'id', partitionsize = '5' SELECT * FROM [test].[test_dates]",
+      "is_active": true
+    }
+  ]
+}
