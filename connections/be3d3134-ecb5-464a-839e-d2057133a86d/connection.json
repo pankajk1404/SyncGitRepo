@@ -8,7 +8,7 @@
   "properties": {
     "Server": "localhost",
     "AuthScheme": "Password",
-    "Password": "SECURE:igJ+Dyvt7e6AqM65w5PQARaA+anMmT6prc2AU1ZXPb3RBjG2nxkOMt3wK76Jp8OsONvYcUUFNO7pMQ==",
+    "Password": "SECURE:s2mCT1LjagvSWWF9/yUTQnsyg3+qlz0eyCcml8br+ruHeyi1DVWzdywwqle/H9JgOTu05TOlVAo2cg==",
     "Database": "postgres",
     "User": "postgres"
   },

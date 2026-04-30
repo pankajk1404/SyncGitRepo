@@ -1,6 +1,6 @@
 {
-  "id": "1e827b42-f859-481a-90e3-c3673c9948c0",
-  "display_name": "Postgre",
+  "id": "3358d478-7ad0-4a61-9b41-1e3a7eeb1273",
+  "display_name": "postgreSQL",
   "connector": {
     "name": "CData PostgreSQL",
     "version": "latest"
@@ -8,8 +8,8 @@
   "properties": {
     "Server": "localhost",
     "AuthScheme": "Password",
-    "Password": "SECURE:9rt/J0oKZOJjkRM1vJjvbLQftfu4EOt4XVH0oEg8QL9yKHcEvnGnrl2x/5wBAQPPAU2OtjsMKQo4",
-    "Database": "test",
+    "Password": "SECURE:YGreYCJ3xIY14+TQ/LBE4f+dzvgHHb7Glrd4g5Azi8lnuoNS0MigZFQe0f2eXCZTanRWPJ8afUHJ",
+    "Database": "newDB",
     "User": "postgres"
   },
   "labels": [],

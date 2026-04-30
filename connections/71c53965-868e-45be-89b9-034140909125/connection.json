@@ -8,7 +8,7 @@
   "properties": {
     "Server": "localhost",
     "AuthScheme": "Password",
-    "Password": "SECURE:5n1T0557sUDQGKuTdrKUopybi2ct+xxn0+1bT/fDt5z0nB8q6mIMCdsYWIZ/88J5+zu4uIlCeNjP",
+    "Password": "SECURE:cIxJ20uqjGXk12w/tB6CE9i0EiQw1nlHH93/wWDjb9+5uxzsVY/osueM7flK7OK2sTppFqwJNA8Z",
     "Database": "test",
     "Port": "3306",
     "User": "root"

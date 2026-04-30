@@ -5,6 +5,12 @@
       "job_id": "5d51094d-09b2-4542-af37-9261cf9cf2da",
       "query": "REPLICATE [public].[test_dates] ([id] int, PRIMARY KEY([id])) WITH maxparallelpartitions = '2', partitionkey = 'created_at', enableparallelreadpartitioning = 'true', partitionsize = '180' SELECT * FROM [test].[test_dates]",
       "is_active": true
+    },
+    {
+      "id": 969565885708767233,
+      "job_id": "5d51094d-09b2-4542-af37-9261cf9cf2da",
+      "query": "REPLICATE [public].[test_dates] ([id] int, PRIMARY KEY([id])) WITH maxparallelpartitions = '2', partitionkey = 'created_at', enableparallelreadpartitioning = 'true', partitionsize = '180' SELECT * FROM [test].[test_dates]",
+      "is_active": true
     }
   ]
 }

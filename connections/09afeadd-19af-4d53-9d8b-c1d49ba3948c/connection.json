@@ -1,16 +1,17 @@
 {
-  "id": "1e827b42-f859-481a-90e3-c3673c9948c0",
-  "display_name": "Postgre",
+  "id": "09afeadd-19af-4d53-9d8b-c1d49ba3948c",
+  "display_name": "mysqla",
   "connector": {
-    "name": "CData PostgreSQL",
+    "name": "CData MySQL",
     "version": "latest"
   },
   "properties": {
     "Server": "localhost",
     "AuthScheme": "Password",
-    "Password": "SECURE:9rt/J0oKZOJjkRM1vJjvbLQftfu4EOt4XVH0oEg8QL9yKHcEvnGnrl2x/5wBAQPPAU2OtjsMKQo4",
-    "Database": "test",
-    "User": "postgres"
+    "Password": "SECURE:BU5dXgPA/oz8CgSbc/rq/AZtsdBWROmr8XbX5N8tNGjIeWYMv1/vLTyjoqmcoq23MFrLO97lcZLc",
+    "Database": "newDB",
+    "Port": "3306",
+    "User": "root"
   },
   "labels": [],
   "settings": {
