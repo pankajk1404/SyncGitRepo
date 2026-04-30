@@ -5,7 +5,7 @@
   "type": 4,
   "destination_connector": "mysql",
   "trigger": {
-    "type": null
+    "type": ""
   },
   "alerts": {
     "send_email": false,
